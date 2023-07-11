@@ -1,0 +1,124 @@
+{
+    "data":[
+        {
+            "name": "华语",
+            "listId": 2966432846,
+            "coverImgUrl": "http://p2.music.126.net/IdlievbaIw2QU_Iftd7I2Q==/109951166142386420.jpg",
+            "bgColor": "#ecaec0"
+        },
+        {
+            "name": "欧美",
+            "listId": 3001035934,
+            "coverImgUrl": "http://p1.music.126.net/6lhQ6jqPaBfsRdOJEgeiYw==/109951168239184663.jpg",
+            "bgColor": "#b17baf"
+        },
+        {
+            "name": "韩语",
+            "listId": 3233164347,
+            "coverImgUrl": "http://p2.music.126.net/fJVwOtBJo9TK13UVd6z_Dg==/109951164687320270.jpg",
+            "bgColor": "#3483cd"
+        },
+        {
+            "name": "日语",
+            "listId": 503337470,
+            "coverImgUrl": "http://p1.music.126.net/Lagx-M9kvstPZ_tcWzMJbA==/19029247742045012.jpg",
+            "bgColor": "#81768d"
+        },
+        {
+            "name": "粤语",
+            "listId": 2576219155,
+            "coverImgUrl": "http://p1.music.126.net/WKxWDJu_7o8Dzlq1c0NTSA==/109951163753165342.jpg",
+            "bgColor": "#3245b2"
+        },
+        {
+            "name": "另类/独立",
+            "listId": 805407063,
+            "coverImgUrl": "http://p2.music.126.net/KjskMc2kvX6vGMqkOIvzKQ==/19186477904926453.jpg",
+            "bgColor": "#252c4f"
+        },
+        {
+            "name": "R&B/Soul",
+            "listId": 893126993,
+            "coverImgUrl": "http://p1.music.126.net/dMlINUxUskjYg30JTRYexw==/19221662277102979.jpg",
+            "bgColor": "#44836c"
+        },
+        {
+            "name": "怀旧",
+            "listId": 3233164347,
+            "coverImgUrl": "http://p2.music.126.net/fJVwOtBJo9TK13UVd6z_Dg==/109951164687320270.jpg",
+            "bgColor": "#0876c6"
+        },
+        {
+            "name": "小语种",
+            "listId": 932176943,
+            "coverImgUrl": "http://p2.music.126.net/K9aP41sb9puH2T7GT-GIMw==/109951164359163944.jpg",
+            "bgColor": "#537b92"
+        },
+        {
+            "name": "学习",
+            "listId": 490158454,
+            "coverImgUrl": "http://p2.music.126.net/Dn8SeEUr-7--FlrZ-LKVAw==/18601537720555575.jpg",
+            "bgColor": "#804041"
+        },
+        {
+            "name": "夜晚",
+            "listId": 2141223874,
+            "coverImgUrl": "http://p1.music.126.net/CKZfZcHjFv3NtlhtWtVFuQ==/109951165737095316.jpg",
+            "bgColor": "#7f68b0"
+        },
+        {
+            "name": "运动",
+            "listId": 311867735,
+            "coverImgUrl": "http://p2.music.126.net/K8228gQ1NvCYaKM8lXjdSg==/1364493989808788.jpg",
+            "bgColor": "#9acbdd"
+        },
+        {
+            "name": "ACG",
+            "listId": 411796573,
+            "coverImgUrl": "http://p1.music.126.net/sfUnaN0LFfLIsim81MhO8g==/109951165061282348.jpg",
+            "bgColor": "#531b80"
+        },
+        {
+            "name": "影视原声",
+            "listId": 4969117191,
+            "coverImgUrl": "http://p2.music.126.net/ls2F-kwapPizoX7ZCImhqw==/109951165016322110.jpg",
+            "bgColor": "#7aa6a2"
+        },
+        {
+            "name": "流行",
+            "listId": 805407063,
+            "coverImgUrl": "http://p2.music.126.net/KjskMc2kvX6vGMqkOIvzKQ==/19186477904926453.jpg",
+            "bgColor": "#223160"
+        },
+        {
+            "name": "性感",
+            "listId": 503337470,
+            "coverImgUrl": "http://p1.music.126.net/Lagx-M9kvstPZ_tcWzMJbA==/19029247742045012.jpg",
+            "bgColor": "#db5f89"
+        },
+        {
+            "name": "摇滚",
+            "listId": 3001035934,
+            "coverImgUrl": "http://p1.music.126.net/6lhQ6jqPaBfsRdOJEgeiYw==/109951168239184663.jpg",
+            "bgColor": "#3585cf"
+        },
+        {
+            "name": "英伦",
+            "listId": 512953021,
+            "coverImgUrl": "http://p2.music.126.net/Pka40LsMpS4CsUvNpUomlg==/109951163026667559.jpg",
+            "bgColor": "#9c6a56"
+        },
+        {
+            "name": "后摇",
+            "listId": 6666112560,
+            "coverImgUrl": "http://p1.music.126.net/SA6bW1UlPP04rFB2pj-FvQ==/109951165813403264.jpg",
+            "bgColor": "#777777"
+        },
+        {
+            "name": "古风",
+            "listId": 2922521375,
+            "coverImgUrl": "http://p2.music.126.net/3-3NxbWHTjrKIaLyMxbFxA==/109951164274481267.jpg",
+            "bgColor": "#537b92"
+        }
+    ]
+}

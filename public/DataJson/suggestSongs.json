@@ -1,0 +1,4374 @@
+{
+    "code": 200,
+    "data": {
+        "dailySongs": [
+            {
+                "name": "精卫",
+                "id": 1951069525,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 32099752,
+                        "name": "30年前，50年后",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 8,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 137950781,
+                    "name": "丧失年轻，勿失年华",
+                    "picUrl": "http://p4.music.126.net/jSH_ikeooxveWl0BTc3Xkg==/109951166786983190.jpg",
+                    "tns": [],
+                    "pic_str": "109951166786983190",
+                    "pic": 109951166786983180
+                },
+                "dt": 176181,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7050054,
+                    "vd": -64130,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4230084,
+                    "vd": -61579,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2820098,
+                    "vd": -60123,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1706847,
+                    "fid": 0,
+                    "size": 37589430,
+                    "vd": -64114,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8256,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 8,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": "超75%人播放",
+                "recommendReason": "超75%人播放",
+                "privilege": {
+                    "id": 1951069525,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 6,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on",
+                "s_ctrp": "yunbeiRcmd_rcmdInfo_261016462&1951069525"
+            },
+            {
+                "name": "阳光开朗大男孩",
+                "id": 1895164923,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12498266,
+                        "name": "卦者灵风",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 12,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 136144333,
+                    "name": "阳光开朗大男孩",
+                    "picUrl": "http://p4.music.126.net/9ASwUTa66MK6z1WFLt3IEQ==/109951166623967637.jpg",
+                    "tns": [],
+                    "pic_str": "109951166623967637",
+                    "pic": 109951166623967630
+                },
+                "dt": 206744,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8272501,
+                    "vd": -60940,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4963518,
+                    "vd": -58417,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3309026,
+                    "vd": -56781,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 962238,
+                    "fid": 0,
+                    "size": 24867176,
+                    "vd": -61100,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 12,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1419026,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": "百万红心",
+                "recommendReason": "百万红心",
+                "privilege": {
+                    "id": 1895164923,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "溯 (Reverse)",
+                "id": 1294951288,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 28083351,
+                        "name": "CORSAK胡梦周",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 8982,
+                        "name": "马吟吟",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 4,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 71882896,
+                    "name": "溯 (Reverse)",
+                    "picUrl": "http://p3.music.126.net/NTilljwKT_Hs9sLhBP1KKQ==/109951163416029067.jpg",
+                    "tns": [],
+                    "pic_str": "109951163416029067",
+                    "pic": 109951163416029070
+                },
+                "dt": 192026,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7684223,
+                    "vd": -51734,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4610551,
+                    "vd": -49274,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3073715,
+                    "vd": -47916,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 2608000,
+                    "fid": 0,
+                    "size": 23932256,
+                    "vd": -51635,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 2,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 4,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1416676,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1532016000007,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1294951288,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "盗墓笔记·十年人间",
+                "id": 1297802566,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12359437,
+                        "name": "李常超 (Lao乾妈)",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [
+                    "八一七稻米节主题推广曲"
+                ],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 24,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 72041288,
+                    "name": "盗墓笔记·十年人间",
+                    "picUrl": "http://p4.music.126.net/TdqG8yFWSZgQqH2K235MgA==/109951163434990771.jpg",
+                    "tns": [],
+                    "pic_str": "109951163434990771",
+                    "pic": 109951163434990770
+                },
+                "dt": 277350,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 11096860,
+                    "vd": -54873,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6658133,
+                    "vd": -52300,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4438770,
+                    "vd": -50702,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 998674,
+                    "fid": 0,
+                    "size": 34622904,
+                    "vd": -54862,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 24,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1532966400000,
+                "reason": "十万评论",
+                "recommendReason": "十万评论",
+                "privilege": {
+                    "id": 1297802566,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "广寒谣",
+                "id": 1408941888,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 31727575,
+                        "name": "伊格赛听",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 12296026,
+                        "name": "不靠谱组合",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 16,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 84033694,
+                    "name": "广寒谣",
+                    "picUrl": "http://p3.music.126.net/VQ4bemCFWvtQL5Xao5G3oQ==/109951164542688776.jpg",
+                    "tns": [],
+                    "pic_str": "109951164542688776",
+                    "pic": 109951164542688770
+                },
+                "dt": 185984,
+                "h": {
+                    "br": 320002,
+                    "fid": 0,
+                    "size": 7441965,
+                    "vd": -54310,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192002,
+                    "fid": 0,
+                    "size": 4465197,
+                    "vd": -51712,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128002,
+                    "fid": 0,
+                    "size": 2976813,
+                    "vd": -50015,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 982255,
+                    "fid": 0,
+                    "size": 22835565,
+                    "vd": -54296,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1751428,
+                    "fid": 0,
+                    "size": 40717361,
+                    "vd": -54299,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536879104,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 16,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1372818,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1576080000000,
+                "reason": "百万红心",
+                "recommendReason": "百万红心",
+                "privilege": {
+                    "id": 1408941888,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "But U",
+                "id": 1459232593,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12276375,
+                        "name": "NINEONE#赵馨玥",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 23,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 91753626,
+                    "name": "But U",
+                    "picUrl": "http://p3.music.126.net/li19i75jz6GGOT79IyAjYA==/109951165100592039.jpg",
+                    "tns": [],
+                    "pic_str": "109951165100592039",
+                    "pic": 109951165100592030
+                },
+                "dt": 225417,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9019245,
+                    "vd": -75169,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5411565,
+                    "vd": -72639,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3607725,
+                    "vd": -71074,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 1050042,
+                    "fid": 0,
+                    "size": 29587182,
+                    "vd": -75193,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1818392,
+                    "fid": 0,
+                    "size": 51237078,
+                    "vd": -75145,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 0,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 537141248,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 23,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1416862,
+                "mv": 10977778,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1459232593,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "雾里",
+                "id": 1815085049,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 27909602,
+                        "name": "姚六一",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 23,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 122153644,
+                    "name": "雾里",
+                    "picUrl": "http://p3.music.126.net/J9_j9s2faIKwn6oqwQV2Rw==/109951166153759329.jpg",
+                    "tns": [],
+                    "pic_str": "109951166153759329",
+                    "pic": 109951166153759330
+                },
+                "dt": 252105,
+                "h": {
+                    "br": 320001,
+                    "fid": 0,
+                    "size": 10086444,
+                    "vd": -65711,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192001,
+                    "fid": 0,
+                    "size": 6051884,
+                    "vd": -63140,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128001,
+                    "fid": 0,
+                    "size": 4034604,
+                    "vd": -61518,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1631987,
+                    "fid": 0,
+                    "size": 51429182,
+                    "vd": -65702,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 23,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1416318,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1611676800000,
+                "reason": "万人评论",
+                "recommendReason": "万人评论",
+                "privilege": {
+                    "id": 1815085049,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "篝火旁",
+                "id": 518725853,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12606272,
+                        "name": "吕大叶",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 12798308,
+                        "name": "马子林",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 49046111,
+                        "name": "陈觅Lynne",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 70,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 36676066,
+                    "name": "313",
+                    "picUrl": "http://p3.music.126.net/sN5dTpmeJO1DhxIj1ogMLg==/109951163416453597.jpg",
+                    "tns": [],
+                    "pic_str": "109951163416453597",
+                    "pic": 109951163416453600
+                },
+                "dt": 219569,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8785005,
+                    "vd": -47983,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5271021,
+                    "vd": -45379,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3514029,
+                    "vd": -43697,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 902810,
+                    "fid": 0,
+                    "size": 24778727,
+                    "vd": -47974,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1659478,
+                    "fid": 0,
+                    "size": 45546393,
+                    "vd": -47978,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 537133248,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 70,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1403818,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1508947200000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 518725853,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 3,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "exhigh",
+                    "dlLevel": "hires",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "海底",
+                "id": 1430583016,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 33694141,
+                        "name": "一支榴莲",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 30,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 86447217,
+                    "name": "海底",
+                    "picUrl": "http://p3.music.126.net/YRFYXG6YaJfTyy_mQntS4A==/109951164799337803.jpg",
+                    "tns": [],
+                    "pic_str": "109951164799337803",
+                    "pic": 109951164799337810
+                },
+                "dt": 256111,
+                "h": {
+                    "br": 320001,
+                    "fid": 0,
+                    "size": 10247358,
+                    "vd": -17244,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192001,
+                    "fid": 0,
+                    "size": 6148432,
+                    "vd": -14602,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128001,
+                    "fid": 0,
+                    "size": 4098969,
+                    "vd": -12815,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1391154,
+                    "fid": 0,
+                    "size": 44536273,
+                    "vd": -17244,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 30,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 14356639,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1584028800000,
+                "reason": "十万评论",
+                "recommendReason": "十万评论",
+                "privilege": {
+                    "id": 1430583016,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "深海回响",
+                "id": 1907978608,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12195034,
+                        "name": "李尧音",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 6,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 138197883,
+                    "name": "深海回响",
+                    "picUrl": "http://p4.music.126.net/6Yj3x8y32ELWP0lw9yObtA==/109951166870616590.jpg",
+                    "tns": [],
+                    "pic_str": "109951166870616590",
+                    "pic": 109951166870616590
+                },
+                "dt": 175584,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7025938,
+                    "vd": -78730,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4215580,
+                    "vd": -76154,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2810401,
+                    "vd": -74588,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1667639,
+                    "fid": 0,
+                    "size": 36601402,
+                    "vd": -78717,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 6,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1416318,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1907978608,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "循迹",
+                "id": 2018432856,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12382128,
+                        "name": "王子健",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 4,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 159124745,
+                    "name": "循迹",
+                    "picUrl": "http://p4.music.126.net/pwBA9COg9G8bUw0GOUlDzQ==/109951168271926504.jpg",
+                    "tns": [],
+                    "pic_str": "109951168271926504",
+                    "pic": 109951168271926500
+                },
+                "dt": 197175,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7889325,
+                    "vd": -49092,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4733613,
+                    "vd": -46475,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3155757,
+                    "vd": -44756,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 970514,
+                    "fid": 0,
+                    "size": 23920144,
+                    "vd": -49293,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1739831,
+                    "fid": 0,
+                    "size": 42881412,
+                    "vd": -49089,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536879104,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 4,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1419026,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": "昨日十万播放",
+                "recommendReason": "昨日十万播放",
+                "privilege": {
+                    "id": 2018432856,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "给你一瓶魔法药水",
+                "id": 1959667345,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12676697,
+                        "name": "告五人",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 21,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 147207482,
+                    "name": "玫瑰凭证",
+                    "picUrl": "http://p4.music.126.net/fISwJ705Y1c81EqWxKjNqg==/109951167603798520.jpg",
+                    "tns": [],
+                    "pic_str": "109951167603798520",
+                    "pic": 109951167603798530
+                },
+                "dt": 258787,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10353645,
+                    "vd": -72483,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6212205,
+                    "vd": -69907,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4141485,
+                    "vd": -68252,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 1083302,
+                    "fid": 0,
+                    "size": 35043209,
+                    "vd": -72472,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1852770,
+                    "fid": 0,
+                    "size": 59934318,
+                    "vd": -72472,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536879104,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 21,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 14553401,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1959667345,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "囍（Chinese Wedding）",
+                "id": 1303289043,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12136078,
+                        "name": "葛东琪",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 38,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 72363263,
+                    "name": "囍（Chinese Wedding）",
+                    "picUrl": "http://p3.music.126.net/H3Q3SeMVtuHvHY2uyaQdOw==/109951163472855051.jpg",
+                    "tns": [],
+                    "pic_str": "109951163472855051",
+                    "pic": 109951163472855060
+                },
+                "dt": 216705,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8670607,
+                    "vd": -58486,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5202382,
+                    "vd": -55948,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3468269,
+                    "vd": -54412,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 902524,
+                    "fid": 0,
+                    "size": 24447786,
+                    "vd": -58484,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 38,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 14281978,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1579536000000,
+                "reason": "第3届网易云音乐原创盛典",
+                "recommendReason": "第3届网易云音乐原创盛典",
+                "privilege": {
+                    "id": 1303289043,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "Souvenirs d'enfance",
+                "id": 5038296,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 41937,
+                        "name": "Richard Clayderman",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 90,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 25,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 500463,
+                    "name": "Lettre à ma mère",
+                    "picUrl": "http://p3.music.126.net/_ZshU4mtOdcke16rcXzBUw==/109951168387182330.jpg",
+                    "tns": [],
+                    "pic_str": "109951168387182330",
+                    "pic": 109951168387182340
+                },
+                "dt": 172800,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 6914133,
+                    "vd": 30629,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4148497,
+                    "vd": 33258,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2765679,
+                    "vd": 35017,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 769245,
+                    "fid": 0,
+                    "size": 16615704,
+                    "vd": 30634,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 139264,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 25,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1416763,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 283968000007,
+                "reason": "常听的轻音乐曲风",
+                "recommendReason": "常听的轻音乐曲风",
+                "privilege": {
+                    "id": 5038296,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "心如止水",
+                "id": 1349292048,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12121264,
+                        "name": "Ice Paper",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 40,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 75350006,
+                    "name": "成语接龙",
+                    "picUrl": "http://p3.music.126.net/uBl7mRulAXxdRkq1deOJmQ==/109951167894793259.jpg",
+                    "tns": [],
+                    "pic_str": "109951167894793259",
+                    "pic": 109951167894793260
+                },
+                "dt": 185390,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7417824,
+                    "vd": -30201,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4450732,
+                    "vd": -27569,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2967186,
+                    "vd": -25843,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1511044,
+                    "fid": 0,
+                    "size": 35016690,
+                    "vd": -30204,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 6,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 40,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1349292048,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "罗生门（Follow）",
+                "id": 1456890009,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 33259235,
+                        "name": "梨冻紧",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 13112601,
+                        "name": "Wiz_H张子豪",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 38,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 91237927,
+                    "name": "罗生门（Follow）",
+                    "picUrl": "http://p4.music.126.net/yN1ke1xYMJ718FiHaDWtYQ==/109951165076380471.jpg",
+                    "tns": [],
+                    "pic_str": "109951165076380471",
+                    "pic": 109951165076380460
+                },
+                "dt": 243754,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9752735,
+                    "vd": -48129,
+                    "sr": 48000
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5851679,
+                    "vd": -45527,
+                    "sr": 48000
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3901151,
+                    "vd": -43878,
+                    "sr": 48000
+                },
+                "sq": {
+                    "br": 923788,
+                    "fid": 0,
+                    "size": 28147247,
+                    "vd": -48121,
+                    "sr": 48000
+                },
+                "hr": {
+                    "br": 1693305,
+                    "fid": 0,
+                    "size": 51593929,
+                    "vd": -48124,
+                    "sr": 48000
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 536879168,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 38,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 0,
+                "reason": "昨日百万播放",
+                "recommendReason": "昨日百万播放",
+                "privilege": {
+                    "id": 1456890009,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 6,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "hires",
+                    "playMaxBrLevel": "hires",
+                    "downloadMaxBrLevel": "hires",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 1999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "阳光总在风雨后",
+                "id": 307003,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 9942,
+                        "name": "许美静",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [
+                    "新加坡电视剧《骤雨骄阳》主题曲"
+                ],
+                "pop": 100,
+                "st": 0,
+                "rt": "600902000001128478",
+                "fee": 8,
+                "v": 32,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 30488,
+                    "name": "都是夜归人",
+                    "picUrl": "http://p3.music.126.net/tujGmilZzfthd7HhVOl2Pw==/109951167320353104.jpg",
+                    "tns": [],
+                    "pic_str": "109951167320353104",
+                    "pic": 109951167320353100
+                },
+                "dt": 304533,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 12183554,
+                    "vd": -484,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 7310150,
+                    "vd": 2136,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4873448,
+                    "vd": 3860,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 829838,
+                    "fid": 0,
+                    "size": 31589202,
+                    "vd": -516,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 10,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 32,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 7003,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 852048000000,
+                "reason": "昨日万人播放",
+                "recommendReason": "昨日万人播放",
+                "privilege": {
+                    "id": 307003,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "总有一天你会出现在我身边",
+                "id": 1303027499,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 1085047,
+                        "name": "棱镜乐队",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 42,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 73702798,
+                    "name": "一次有预谋的初次相遇",
+                    "picUrl": "http://p3.music.126.net/RfUHXkanpxImcaGqFNWBeA==/109951163598901405.jpg",
+                    "tns": [],
+                    "pic_str": "109951163598901405",
+                    "pic": 109951163598901400
+                },
+                "dt": 270000,
+                "h": {
+                    "br": 320001,
+                    "fid": 0,
+                    "size": 10802317,
+                    "vd": -44923,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192001,
+                    "fid": 0,
+                    "size": 6481455,
+                    "vd": -42291,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128001,
+                    "fid": 0,
+                    "size": 4321024,
+                    "vd": -40524,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 758246,
+                    "fid": 0,
+                    "size": 25590803,
+                    "vd": -44921,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 42,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 14479273,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1535212800000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1303027499,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on",
+                "s_ctrp": "yunbeiRcmd_rcmdInfo_1740783453&1303027499"
+            },
+            {
+                "name": "认真的雪",
+                "id": 5254815,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 5781,
+                        "name": "薛之谦",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 829,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 512033,
+                    "name": "你是我一生最爱的人",
+                    "picUrl": "http://p3.music.126.net/ukJi8SPQR0StMTHS31titg==/109951163449486613.jpg",
+                    "tns": [],
+                    "pic_str": "109951163449486613",
+                    "pic": 109951163449486610
+                },
+                "dt": 259346,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10376925,
+                    "vd": -1459,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6226173,
+                    "vd": -1459,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4150796,
+                    "vd": -1459,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 823411,
+                    "fid": 0,
+                    "size": 26693623,
+                    "vd": -1459,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 6,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 829,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 7003,
+                "mv": 5308148,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1191168000000,
+                "reason": "十万红心",
+                "recommendReason": "十万红心",
+                "privilege": {
+                    "id": 5254815,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "醉清波",
+                "id": 463090682,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12027091,
+                        "name": "苏畅",
+                        "tns": [],
+                        "alias": []
+                    },
+                    {
+                        "id": 1160151,
+                        "name": "肖斯塔",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 31,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 35179336,
+                    "name": "初",
+                    "picUrl": "http://p4.music.126.net/xKOHGdZo8djcf_wO63_NyQ==/109951162858842403.jpg",
+                    "tns": [],
+                    "pic_str": "109951162858842403",
+                    "pic": 109951162858842400
+                },
+                "dt": 248706,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9958966,
+                    "vd": 8738,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5975397,
+                    "vd": 8738,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3983613,
+                    "vd": 8738,
+                    "sr": 44100
+                },
+                "sq": null,
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 13,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 131136,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 31,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1486742400000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 463090682,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 2,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "maxBrLevel": "exhigh",
+                    "playMaxBrLevel": "exhigh",
+                    "downloadMaxBrLevel": "exhigh",
+                    "plLevel": "exhigh",
+                    "dlLevel": "exhigh",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "四季风景",
+                "id": 304851,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 9766,
+                        "name": "巫娜",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 95,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 21,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 30199,
+                    "name": "荷香淡淡",
+                    "picUrl": "http://p3.music.126.net/POgNmLa7isQgo1lBIOXBVg==/96757023261546.jpg",
+                    "tns": [],
+                    "pic": 96757023261546
+                },
+                "dt": 308833,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 12355961,
+                    "vd": -48714,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 7413594,
+                    "vd": -48714,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4942410,
+                    "vd": -48714,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 819171,
+                    "fid": 0,
+                    "size": 31623478,
+                    "vd": -48714,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 5,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 139264,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 21,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 35007,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1337443200000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 304851,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "Prelude – Act I (Carmen)",
+                "id": 1049192,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 28257,
+                        "name": "André Rieu",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 95,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 16,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 109521,
+                    "name": "The 100 Most Beautiful Melodies (6 CD Box Set)",
+                    "picUrl": "http://p3.music.126.net/i6vnBizaroPLhXWmfP5K8g==/936783906911490.jpg",
+                    "tns": [],
+                    "pic": 936783906911490
+                },
+                "dt": 127000,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 5122241,
+                    "vd": -72996,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 3073405,
+                    "vd": -72996,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2048987,
+                    "vd": -72996,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 988774,
+                    "fid": 0,
+                    "size": 15818737,
+                    "vd": -72996,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 36,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 139264,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 16,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 7003,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1210867200007,
+                "reason": null,
+                "tns": [
+                    "卡门序曲"
+                ],
+                "recommendReason": null,
+                "privilege": {
+                    "id": 1049192,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "He's A Pirate (\"Pirates Of The Caribbean\")",
+                "id": 17241225,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 31212,
+                        "name": "David Garrett",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 70,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 17,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 1589173,
+                    "name": "Encore",
+                    "picUrl": "http://p4.music.126.net/AO5QsuJVnUcOEhY_w9Eh-w==/653109906907028.jpg",
+                    "tns": [],
+                    "pic": 653109906907028
+                },
+                "dt": 181466,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7261040,
+                    "vd": -47384,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4356641,
+                    "vd": -44788,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2904442,
+                    "vd": -43069,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 900816,
+                    "fid": 0,
+                    "size": 20433520,
+                    "vd": -47315,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 4,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 139264,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 17,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 7003,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1233504000000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 17241225,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "月亮代表我的心",
+                "id": 192249,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 6483,
+                        "name": "赵鹏",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 85,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 8,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 19409,
+                    "name": "闪亮的日子",
+                    "picUrl": "http://p4.music.126.net/x76ugmIFap73dLi3Moq-oQ==/31885837222307.jpg",
+                    "tns": [],
+                    "pic": 31885837222307
+                },
+                "dt": 280000,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 11205617,
+                    "vd": 30310,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6723423,
+                    "vd": 32899,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4482326,
+                    "vd": 34536,
+                    "sr": 44100
+                },
+                "sq": null,
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 64,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 8,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 22034,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1080748800000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 192249,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 2,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "maxBrLevel": "exhigh",
+                    "playMaxBrLevel": "exhigh",
+                    "downloadMaxBrLevel": "exhigh",
+                    "plLevel": "exhigh",
+                    "dlLevel": "exhigh",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "朵",
+                "id": 447926063,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 6731,
+                        "name": "赵雷",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [
+                    "Dorr"
+                ],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 34,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 35069014,
+                    "name": "无法长大",
+                    "picUrl": "http://p4.music.126.net/BJgUd9aD9gpougZFASRTTw==/18548761162235571.jpg",
+                    "tns": [],
+                    "pic_str": "18548761162235571",
+                    "pic": 18548761162235572
+                },
+                "dt": 292010,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 11683048,
+                    "vd": -38841,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 7009846,
+                    "vd": -36194,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4673245,
+                    "vd": -34383,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 910423,
+                    "fid": 0,
+                    "size": 33231683,
+                    "vd": -38855,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 34,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 1400821,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1482249600007,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 447926063,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "17岁 (Live)",
+                "id": 29723041,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 3691,
+                        "name": "刘德华",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 9,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 3066282,
+                    "name": "Wonderful World 香港演唱会 2007",
+                    "picUrl": "http://p4.music.126.net/SqEjzkbOeTocASevCOQ5Sw==/109951165909154050.jpg",
+                    "tns": [],
+                    "pic_str": "109951165909154050",
+                    "pic": 109951165909154050
+                },
+                "dt": 303000,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 12142802,
+                    "vd": 9320,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 7285698,
+                    "vd": 11853,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4857146,
+                    "vd": 13488,
+                    "sr": 44100
+                },
+                "sq": null,
+                "hr": null,
+                "a": null,
+                "cd": "2",
+                "no": 13,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 9,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1201795200007,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 29723041,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "maxBrLevel": "exhigh",
+                    "playMaxBrLevel": "exhigh",
+                    "downloadMaxBrLevel": "exhigh",
+                    "plLevel": "exhigh",
+                    "dlLevel": "exhigh",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "爱我就跟我走",
+                "id": 163635,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 5444,
+                        "name": "王鹤铮",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 19,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 16426,
+                    "name": "爱我就跟我走",
+                    "picUrl": "http://p3.music.126.net/BovC3vWRmIg79bo6N-lgvA==/131941395351050.jpg",
+                    "tns": [],
+                    "pic": 131941395351050
+                },
+                "dt": 247222,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9890003,
+                    "vd": -61666,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5934019,
+                    "vd": -61666,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3956027,
+                    "vd": -61666,
+                    "sr": 44100
+                },
+                "sq": null,
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 19,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 35017,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1249315200000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 163635,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "maxBrLevel": "exhigh",
+                    "playMaxBrLevel": "exhigh",
+                    "downloadMaxBrLevel": "exhigh",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            },
+            {
+                "name": "数羊安眠曲",
+                "id": 35283936,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 10902,
+                        "name": "陈拾月（只有影子）",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [],
+                "pop": 85,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 427,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 3176073,
+                    "name": "热门华语270",
+                    "picUrl": "http://p3.music.126.net/cpoUinrExafBHL5Nv5iDHQ==/109951166361218466.jpg",
+                    "tns": [],
+                    "pic_str": "109951166361218466",
+                    "pic": 109951166361218460
+                },
+                "dt": 315943,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 12650622,
+                    "vd": 73712,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 7590390,
+                    "vd": 73712,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 5060274,
+                    "vd": 73712,
+                    "sr": 44100
+                },
+                "sq": null,
+                "hr": null,
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 427,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1420041600004,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 35283936,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "maxBrLevel": "exhigh",
+                    "playMaxBrLevel": "exhigh",
+                    "downloadMaxBrLevel": "exhigh",
+                    "plLevel": "exhigh",
+                    "dlLevel": "exhigh",
+                    "flLevel": "exhigh",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on",
+                "s_ctrp": "yunbeiRcmd_rcmdInfo_1759007494&35283936"
+            },
+            {
+                "name": "快乐星猫",
+                "id": 5251825,
+                "pst": 0,
+                "t": 0,
+                "ar": [
+                    {
+                        "id": 12437,
+                        "name": "牛奶咖啡",
+                        "tns": [],
+                        "alias": []
+                    }
+                ],
+                "alia": [
+                    "动画片《快乐星猫》主题曲"
+                ],
+                "pop": 100,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 698,
+                "crbt": null,
+                "cf": "",
+                "al": {
+                    "id": 511882,
+                    "name": "星猫和小伙伴们的冒险",
+                    "picUrl": "http://p4.music.126.net/NT-MDO5w1h5km9sKPUJfHA==/127543348839982.jpg",
+                    "tns": [],
+                    "pic": 127543348839982
+                },
+                "dt": 192330,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 7695717,
+                    "vd": -62802,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4617448,
+                    "vd": -60269,
+                    "sr": 44100
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3078313,
+                    "vd": -58802,
+                    "sr": 44100
+                },
+                "sq": {
+                    "br": 1040048,
+                    "fid": 0,
+                    "size": 25004189,
+                    "vd": -62786,
+                    "sr": 44100
+                },
+                "hr": null,
+                "a": null,
+                "cd": "1",
+                "no": 13,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls": [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "tagPicList": null,
+                "resourceState": true,
+                "version": 698,
+                "songJumpInfo": null,
+                "entertainmentTags": null,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "mst": 9,
+                "cp": 22020,
+                "mv": 5468522,
+                "rtype": 0,
+                "rurl": null,
+                "publishTime": 1206288000000,
+                "reason": null,
+                "recommendReason": null,
+                "privilege": {
+                    "id": 5251825,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 260,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "maxBrLevel": "lossless",
+                    "playMaxBrLevel": "lossless",
+                    "downloadMaxBrLevel": "lossless",
+                    "plLevel": "standard",
+                    "dlLevel": "none",
+                    "flLevel": "standard",
+                    "rscl": null,
+                    "freeTrialPrivilege": {
+                        "resConsumable": false,
+                        "userConsumable": false,
+                        "listenType": null
+                    },
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                },
+                "alg": "itembased_on"
+            }
+        ],
+        "orderSongs": [],
+        "recommendReasons": [
+            {
+                "songId": 1951069525,
+                "reason": "超75%人播放",
+                "reasonId": "title_10004",
+                "targetUrl": null
+            },
+            {
+                "songId": 1895164923,
+                "reason": "百万红心",
+                "reasonId": "title_10006",
+                "targetUrl": null
+            },
+            {
+                "songId": 1297802566,
+                "reason": "十万评论",
+                "reasonId": "title_10009",
+                "targetUrl": null
+            },
+            {
+                "songId": 1408941888,
+                "reason": "百万红心",
+                "reasonId": "title_10006",
+                "targetUrl": null
+            },
+            {
+                "songId": 1815085049,
+                "reason": "万人评论",
+                "reasonId": "title_10010",
+                "targetUrl": null
+            },
+            {
+                "songId": 1430583016,
+                "reason": "十万评论",
+                "reasonId": "title_10009",
+                "targetUrl": null
+            },
+            {
+                "songId": 2018432856,
+                "reason": "昨日十万播放",
+                "reasonId": "title_10002",
+                "targetUrl": null
+            },
+            {
+                "songId": 1303289043,
+                "reason": "第3届网易云音乐原创盛典",
+                "reasonId": "title_10016",
+                "targetUrl": null
+            },
+            {
+                "songId": 5038296,
+                "reason": "常听的轻音乐曲风",
+                "reasonId": "title_10015",
+                "targetUrl": null
+            },
+            {
+                "songId": 1456890009,
+                "reason": "昨日百万播放",
+                "reasonId": "title_10003",
+                "targetUrl": null
+            },
+            {
+                "songId": 307003,
+                "reason": "昨日万人播放",
+                "reasonId": "title_10001",
+                "targetUrl": null
+            },
+            {
+                "songId": 5254815,
+                "reason": "十万红心",
+                "reasonId": "title_10005",
+                "targetUrl": null
+            }
+        ],
+        "mvResourceInfos": null
+    }
+}
